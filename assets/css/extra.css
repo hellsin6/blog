@@ -1,0 +1,19 @@
+img.logo {
+  border-radius: 50%;
+}
+
+body {
+	background-color: #E6D9B7;
+}
+
+.highlight {
+  background-color: #FAE4CC; 
+}
+
+a:link, a:visited { 
+	color: #C02942; 
+}
+
+a:hover, a:active {
+  color: #D95B43;
+}
