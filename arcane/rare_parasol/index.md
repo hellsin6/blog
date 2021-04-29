@@ -45,7 +45,7 @@ El día 3 de Noviembre del año 2006 se realizó una nueva versión del Tomakefi
 
 ![Tomakefinde!!](tomakefinde.PNG)
 
-Generalmente se seleccionaban 10 en el Tomakefinde!! y solo se conocen 5 de los furnis generados en esa época
+Generalmente se seleccionaban 10 ganadores en el Tomakefinde!! pero solo se conocen 5 de los furnis generados en esa época, quizás fueron 5 los ganadores, no tengo idea
 
 ![Ganadores](parasoles_tomakefinde.PNG)
 
