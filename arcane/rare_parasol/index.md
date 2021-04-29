@@ -45,7 +45,11 @@ El día 3 de Noviembre del año 2006 se realizó una nueva versión del Tomakefi
 
 ![Tomakefinde!!](tomakefinde.PNG)
 
-Generalmente se seleccionaban 10 ganadores en el Tomakefinde!! pero solo se conocen 5 de los furnis generados en esa época, quizás fueron 5 los ganadores, no tengo idea
+Los diez ganadores del Tomakefinde!! fueron recompensados con una Sombrilla Verde para cada uno
+
+![Sorteo final](ganadores_tomakefinde.PNG)
+
+Actualmente solo se conoce el paradero de 5 de las 10 Sombrillas Verdes 
 
 ![Ganadores](parasoles_tomakefinde.PNG)
 
