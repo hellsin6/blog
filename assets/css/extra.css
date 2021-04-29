@@ -1,9 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@400&display=swap');
+
 img.logo {
   border-radius: 50%;
 }
 
 body {
 	background-color: #E6D9B7;
+	font-family: 'Lexend', sans-serif;
+	color: #222222;
 }
 
 .highlight {
@@ -11,9 +15,16 @@ body {
 }
 
 a:link, a:visited { 
-	color: #C02942; 
+	color: #451A3E; 
+	text-decoration: underline;
 }
 
 a:hover, a:active {
-  color: #D95B43;
+  color: #270A33;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.center {
+	text-align: center;
 }
