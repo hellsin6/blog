@@ -25,7 +25,7 @@ También se generó una Sombrilla Verde unos días después de salir el Holoboy 
 
 ## Año 2004
 
-En Febrero del año 2004 se realizó un concurso de búsqueda de una sala secreta dentro del hotel, en donde se le entregaría un regalo secreto a los primeros 10 usuarios que enviaran la contraseña correcta en el formulario del concurso. 
+En Febrero del año 2004 se realizó un concurso de búsqueda de una sala secreta dentro del hotel, en donde se le entregaría un regalo secreto a los primeros 10 usuarios que enviaran la contraseña correcta en el formulario del concurso
 
 ![habbohotel.es/habbo/es](pagina_2004.PNG)
 
@@ -78,3 +78,6 @@ En habbo.es no se generaron Sombrillas Rosa ya que este hotel no participó en l
 Se han observado 3 nuevas Sombrillas Verdes generadas por Staffs en los últimos años
 
 ![Alhai](staffs.png)
+
+
+_Muchas gracias a Alcantara7 y Markins2 por mostrarme sus Sombrilas Verdes y a Tonisteiger por ayudarme con la investigación :D_
