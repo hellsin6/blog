@@ -63,13 +63,13 @@ Al cambiar el código **A0 clubsofa** (El Club Sofa) por **A0 rareparasol** logr
 
 ![mio](mio.PNG)
 
-Otro cambio realizado en la migración de habbo.com fue la creación de un nuevo furni en el [furnidata](https://www.habbo.es/gamedata/furnidata_json/1) llamado Sombrilla Rosa.
+Otro cambio realizado en la migración de habbo.com fue la creación de un nuevo furni en el [furnidata](https://www.habbo.es/gamedata/furnidata_json/1) llamado Sombrilla Rosa
 
 ![Sombrilla Rosa](sombrilla_rosa.PNG)
 
 Este nuevo furni permitió hacer convivir en un mismo hotel las Sombrillas Verdes creadas con la estructura antigua (_rare_parasol_) con la nueva estructura de furnis (_rare_parasol*1_) añadida en el cambio de Shockwave a Flash del año 2009
 
-![furnidata](furnidata.PNG)
+![furnidata](furnidata.png)
 
 En habbo.es no se generaron Sombrillas Rosa ya que este hotel no participó en la migración, pero las Sombrillas Verdes de Markins2 y Alcantara7 deberían tener el nombre de Sombrilla Rosa
 
@@ -77,4 +77,4 @@ En habbo.es no se generaron Sombrillas Rosa ya que este hotel no participó en l
 
 Se han observado 3 nuevas Sombrillas Verdes generadas por Staffs en los últimos años
 
-![Alhai](staffs.PNG)
+![Alhai](staffs.png)
