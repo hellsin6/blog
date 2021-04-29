@@ -8,4 +8,4 @@ Puedes aportar con contenido a este blog creando una [pull request](https://docs
 
 A continuación se presentan el listado de documentos que se encuentran en este blog.
 
-- [Página principal](/) ([index.md](https://github.com/hellsin6/blog/blob/main/index.md))
+- [Página principal](/blog) ([index.md](https://github.com/hellsin6/blog/blob/main/index.md))
