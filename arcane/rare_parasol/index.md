@@ -84,4 +84,4 @@ Se han observado 3 nuevas Sombrillas Verdes generadas por Staffs en los últimos
 ![Alhai](staffs.png)
 
 
-_Muchas gracias a Alcantara7 y Markins2 por mostrarme sus Sombrilas Verdes y a Tonisteiger por ayudarme con la investigación :D_
+_Muchas gracias a Alcantara7 y Markins2 por mostrarme sus Sombrillas Verdes y a Tonisteiger por ayudarme con la investigación :D_
